@@ -1,5 +1,5 @@
 # Insurance Analysis
-![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Olist-HQ-in-Brazil-1.jpg)
+![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/banner%20image.png)
 --- 
 
 ## Introduction
@@ -32,60 +32,60 @@ Individual performance within the branch:
 ## Modelling
 Created a bridge table to deal with many to many relationsships. Bridge table used to get unique values between two tables
 
- Adjusted Model                                                                                                  |                                                  Data schema
-:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:
-![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Adjusted%20Data%20Model.png)                    |   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Data%20Schema.png)
+ Data Model                                                                                                      |
+:---------------------------------------------------------------------------------------------------------------:|
+![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Data%20Model.png)         |  
    
 ## Analysis & visualizations
 The Report Comprises 3 Dashboards:
 
   1. Excel Dashboard
-  2. 
-   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Excel_Dashboard.png)
+     
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Excel%20Dashboard.png)
 
-  3. Tableau Dashboard
-  4. 
-    ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Tableau%20Dashboard.png)
+  2. Tableau Dashboard
+     
+  ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Tableau%20Dashboard.png)
 
-  5. PowerBi Dashboards
+  3. PowerBi Dashboard
      
-     Dashboard 1
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/power%20Bi%20dashboard.png)
      
-     ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Power_Bi_Dashboard_1.png)
-     
-     Dashboard 2
-     
-     ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Power_Bi_Dashboard_2.png)
-     
-  You Can Interact With The Report Here [Here](https://app.powerbi.com/groups/me/reports/0d0c765f-3253-43a4-9378-279277832743/ReportSectionf9e789b04bce22d87367?experience=power-bi)
+  You Can Interact With The Report Here [Here](https://app.powerbi.com/links/bcgsTxNjPF?ctid=e2218574-b320-4cb4-8576-793995215bf1&pbi_source=linkShare)
 
 ## Overview and features
 
-1. Mostly Used payment Modes
+1. Number of invoice by account executive
  
-   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Overview%20-%20payment%20modes.png)
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/No%20of%20invoice%20by%20account%20exec.png)
 
    -It is reported that total four type of payment methods are used by customers. Credit card, boleto, voucher and Debit Card. Out of all orders,  76.9% of orders have reported credit card as payment mode & 20% of orders reported boleto as a payment mode which contribute 95% of total payment records.
 
    
-2. Sellers Per Product Category
+2. Number of meeting by account executive
    
-   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Overview-%20sellers%20per%20product%20category.png)
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/No.of%20meeting%20by%20accnt%20exec.png)
    
   -The most Common Product Sellers listed on olist for Bed Bath Table , Health Beauty, Sports Leisure, Furniture Decor etc.. we found that most of the sellers prefer to sell the products with High User Reviews and Costing to ensure bulk order and high Profit Margins. At same time office furniture are very less leading to high profit and margins.
  
    
-3. Freight Cost Analysis
+3. Yearly meeting count
    
-   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Overview-%20freight%20costs.png)
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Yearly%20Meeting%20Count.png)
 
 
   -We see here that freight value ranges from 14.77 for Tablets Printing Image to 42.70 for kitchen dining laundry garden furniture. Usually kitchen Dining has more than the double the cost of tablets printing image.
 
    
-4. Top 20 Cities Highest Sellers
+4. Top 4 Open oppurtunity
    
-   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Overview-Top%2020%20Cities.png)
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/TOP%20OP%20OPP.png)
+   
+  - Sao Paulo has the most of the sellers across the market. Around 694 Sellers are there in Sao Paulo , 127 sellers in Curitiba And 96 sellers in Rio de Janeiro and so on.
+
+5. Stage funnel by revenue
+
+   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Funnel%20By%20Revenue.png)
    
   - Sao Paulo has the most of the sellers across the market. Around 694 Sellers are there in Sao Paulo , 127 sellers in Curitiba And 96 sellers in Rio de Janeiro and so on.
 
