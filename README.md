@@ -6,7 +6,14 @@
 This project is on Branch dashboard to discuss New and renewal business number with each branch. This dashboard will be discussed between Corporate team and Individual branch heads.
 Individual performance within the branch:
 
-### DATASET  
+### Objective
+The aim of this project is to analyze insurance retention and branch team with the organization and provide insights to the branch team for developing effective retention strategies. Through data analysis and visualizations, we will identify factors that contribute to :
+- Evaluate the effectiveness of existing retention strategies. 
+- Increase the meeting frequency.
+- Evaluate as a partner in meeting client needs.
+- Contribute to the overall success of our organization
+
+### Dataset  
 -	Project Name: Insurance Analysis.
 - Dataset Name: Total 2 files.
 - Dataset Type: Xlsx Data.
@@ -59,47 +66,57 @@ The Report Comprises 3 Dashboards:
  
    ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/No%20of%20invoice%20by%20account%20exec.png)
 
-   -It is reported that total four type of payment methods are used by customers. Credit card, boleto, voucher and Debit Card. Out of all orders,  76.9% of orders have reported credit card as payment mode & 20% of orders reported boleto as a payment mode which contribute 95% of total payment records.
+  - It is reported that we can see that ﻿At 71, Divya Dhingra had the highest Count of invoice_number and was 7,000.00% higher than Neel Jain, which had the lowest Count of invoice_number at 1.
 
    
 2. Number of meeting by account executive
    
    ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/No.of%20meeting%20by%20accnt%20exec.png)
    
-  -The most Common Product Sellers listed on olist for Bed Bath Table , Health Beauty, Sports Leisure, Furniture Decor etc.. we found that most of the sellers prefer to sell the products with High User Reviews and Costing to ensure bulk order and high Profit Margins. At same time office furniture are very less leading to high profit and margins.
- 
-   
+  - We observed varying levels of meeting activity among our account executives. Some held a higher number of meetings, while others had a more moderate approach.
+
+
 3. Yearly meeting count
    
    ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Yearly%20Meeting%20Count.png)
 
 
-  -We see here that freight value ranges from 14.77 for Tablets Printing Image to 42.70 for kitchen dining laundry garden furniture. Usually kitchen Dining has more than the double the cost of tablets printing image.
+  - The most noticeable change is the substantial increase in the number of meetings from 2019 to 2020, rising from 3 to 31. This dramatic rise could be attributed to several factors.such as:
+  - Business expansion: It’s possible that our company experienced growth during this period, necessitating more frequent meetings to manage increased operations and activities.
+  - Market Dynamics: The global business landscape might have seen rapid changes, requiring more regular discussions  and adjustments to our strategies.
+  - Technology Adoption: Embracing new technologies or digital platforms could have made it easier and more efficient to conduct meetings, prompting more frequent interactions. 
 
-   
 4. Top 4 Open oppurtunity
    
    ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/TOP%20OP%20OPP.png)
    
-  - Sao Paulo has the most of the sellers across the market. Around 694 Sellers are there in Sao Paulo , 127 sellers in Curitiba And 96 sellers in Rio de Janeiro and so on.
+  - Based on our analysis and visualization, it is evident that the VS-Marine Department has the lowest amount revenue of 200000, On the other hand, the Fire Opportunity has the highest amount revenue of 
+    500000.
 
 5. Stage funnel by revenue
 
-   ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Funnel%20By%20Revenue.png)
+  ![](https://github.com/Zameer1040/Insurance_Analysis-Weekly_Branch_Dashboard/blob/main/Funnel%20By%20Revenue.png)
    
-  - Sao Paulo has the most of the sellers across the market. Around 694 Sellers are there in Sao Paulo , 127 sellers in Curitiba And 96 sellers in Rio de Janeiro and so on.
+  - By examining the revenue generated at different stages:
+  - We aim to gain insights into our sales team’s effectiveness.
+  - Identify potential areas for improvement
+  - Provide actionable suggestions to optimize our approach.
 
 ## Conclusion 
 
-- We can conclude that olist should use credit card promotional schemes to increase orders in upcoming years.
-- we can Assume  that the quality of the product delivered  is compensating  for the above.
-- So here we can conclude  that bigger the size of the product higher the freight cost for delivery.
-- we can conclude that Sao Paulo as a prime market which contributes in majority of revenue as well as count of sellers.
+- While the increase in meeting frequency between 2019 and 2020 indicates a dynamic and responsive approach to business conditions, it’s essential to strike a balance between effective communication and 
+  operational efficiency. By implementing the suggested strategies, we can optimize our meeting practices and ensure that every interaction contributes meaningfully to our company’s success.
+- This data-driven approach will enable the company to tailor its cross-selling efforts, target new prospects effectively, and optimize renewal strategies
+- While the “qualify Opportunity” stage is robust, the “Negotiate” and “propose solution” stages offer untapped potential for revenue optimization.
+- From this analysis and implementing the suggested enhancements, we are poised to elevate the overall meeting effectiveness of our account executives.
   
 ## Recommendations
-- focus on faster delivery.
-- easy payment modes
-- product-specific offers
+
+- Participating in industry events, trade shows, and community gatherings to showcase expertise and connect with potential customers.
+- Conduct thorough market research to identify potential customer segments with unmet insurance needs or underserved markets.
+- Review and optimize your internal processes for creating, sending, and managing invoices. Implement efficient workflow systems and automation tools to reduce manual work and minimize errors:
+- Invest in marketig and sales efforts to attract new clients. Develop targeted marketing campaigns, establish partnerships with brokers or agents, and offer competitive packages to draw in more 
+  customers.﻿
   
 
-# Recommendation: To better understand the Olist E-commerce market environment, we will need a longer period of datasets.
+##  Recommendation:To enhance your insurance analysis, consider implementing predictive modeling techniques. By leveraging historical data, predictive models can forecast future insurance retention rates, identify at-risk policies, and help in proactively retaining clients. This can lead to more informed decision-making and improved customer satisfaction.
